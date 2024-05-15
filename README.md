@@ -1,5 +1,4 @@
-output stream
-ChatGPT
+
 Project Title: Image Handling System
 
 Description:
